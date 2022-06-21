@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesMRA"]
+	path = BayesMRA
+	url = https://github.com/jtipton25/bayesmra
+	shallow = true
+	registered = true
